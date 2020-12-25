@@ -258,6 +258,38 @@ section.projects .img img {
 .resort:hover .overlay {
   opacity: 1;
 }
+.grid-container {
+  display: grid;
+  height: auto;
+  align-content: end;
+  grid-template-columns: auto auto auto;
+  grid-gap: 30px;
+  background-color: #FFFFFF;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: #FFFFFF;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 20px;
+  border-bottom: 1px solid #000;
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+}
+
+.ourProjects .section-heading {
+  margin-bottom: 100px;
+}
+
+.ourProjects .section-heading h2 {
+  margin-top: 0;
+}
+
+.ourProjects .section-heading p {
+  margin-bottom: 0;
+}
 
 @media (min-width: 768px) {
   section.resort {
