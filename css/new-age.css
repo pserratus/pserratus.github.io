@@ -377,7 +377,7 @@ section.cta .cta-content h2 {
   max-width: 450px;
   margin-top: 0;
   margin-bottom: 25px;
-  color: white;
+  color: black;
 }
 
 @media (min-width: 768px) {
