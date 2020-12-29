@@ -1,4 +1,4 @@
-var socket = io('http://radarvirus.com:3004');
+var socket = io('http://wa.mydomotik.ml');
 
   socket.on('color', function(data) {
     console.log(data);
