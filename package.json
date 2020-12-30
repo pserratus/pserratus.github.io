@@ -8,7 +8,7 @@
     "description": "A one page app landing page HTML theme for Bootstrap.",
     "keywords": [
         "css",
-        "sass",
+        //"sass",
         "html",
         "responsive",
         "theme",
