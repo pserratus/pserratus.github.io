@@ -471,7 +471,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   text-decoration: none;
 }
 
-.bg-primary {
+.bgprimary {
   position: relative;
   width: 100%;
   padding-top: 150px;
